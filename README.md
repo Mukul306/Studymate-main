@@ -10,11 +10,11 @@
 
 ## ✨ Features
 
-- 🤖 **AI Study Assistant** - Get instant help with your study materials
 - ⏱️ **Smart Study Timer** - Track your study sessions with Pomodoro technique
 - 📊 **Progress Analytics** - Visualize your study habits and improvements
 - 📝 **Task Management** - Organize your assignments and deadlines
 - 📚 **Subject Tracking** - Monitor progress across different subjects
+- 🤖 **Notes hub** - Get instant help with your study materials
 - 🎯 **Study Goals** - Set and achieve your study targets
 
 ## 🚀 Key Technologies
@@ -126,9 +126,9 @@ studymate/
 - `PomodoroTimer.tsx`: Pomodoro technique timer
 - `StudyTimer.tsx`: Simple study session timer
 
-### AI Integration
+### Notes Integration
 
-- `AiAssistant.tsx`: AI-powered study assistant
+- `AiAssistant.tsx`: Notes Hub
 - `ChatInterface.tsx`: Chat interface for AI interaction
 
 ## 🎨 Customization
