@@ -71,7 +71,6 @@ export interface StudentProfile {
     notifications: boolean;
     soundEffects: boolean;
   };
-  achievements: Achievement[];
 }
 
 export interface Achievement {
