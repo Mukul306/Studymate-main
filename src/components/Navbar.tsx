@@ -4,7 +4,7 @@ import {
   CheckSquare,
   Home,
   Book,
-  Pencil,
+  Bot,
   User,
   LogOut,
   Power,
@@ -30,7 +30,7 @@ export default function Navbar() {
     { to: "/tasks", icon: <CheckSquare className="text-green-500" />, label: "Tasks" },
     { to: "/subjects", icon: <Book className="text-purple-500" />, label: "Subjects" },
     { to: "/analytics", icon: <BarChart2 className="text-orange-500" />, label: "Analytics" },
-    { to: "/ai-assistant", icon: <Pencil className="text-pink-500" />, label: "Notes Hub" },
+    { to: "/ai-assistant", icon: <Bot className="text-pink-500" />, label: "Ai-Assistant" },
     { to: "/profile", icon: <User className="text-yellow-500" />, label: "Profile" },
   ];
 
