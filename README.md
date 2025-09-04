@@ -2,19 +2,13 @@
 
 > Transform your study sessions with intelligent task management, real-time progress tracking, and AI-powered learning assistance.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://studymatesite.netlify.app)
-[![GitHub Stars](https://img.shields.io/github/stars/mintahandrews/studymate?style=social)](https://github.com/mintahandrews/studymate)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-![StudyMate Preview](StudyMatePreview.png)
-
 ## ✨ Features
 
 - ⏱️ **Smart Study Timer** - Track your study sessions with Pomodoro technique
 - 📊 **Progress Analytics** - Visualize your study habits and improvements
 - 📝 **Task Management** - Organize your assignments and deadlines
 - 📚 **Subject Tracking** - Monitor progress across different subjects
-- 🤖 **Notes hub** - Get instant help with your study materials
+- 🤖 **Ai Assistant** - Get instant help with your study materials
 - 🎯 **Study Goals** - Set and achieve your study targets
 
 ## 🚀 Key Technologies
@@ -27,12 +21,6 @@
 - Web Speech API for Voice Input
 
 ## 🛠️ Quick Start
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-- A modern web browser
 
 ### Installation
 
