@@ -25,7 +25,7 @@
 1. Clone the repository
 
 ```bash
-git clone https://github.com/mintahandrews/studymate.git
+git clone https://github.com/Mukul306/Studymate-main
 cd studymate
 ```
 
