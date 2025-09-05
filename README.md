@@ -20,8 +20,6 @@
 - PDF.js & Mammoth for Document Processing
 - Web Speech API for Voice Input
 
-## 🛠️ Quick Start
-
 ### Installation
 
 1. Clone the repository
@@ -114,9 +112,9 @@ studymate/
 - `PomodoroTimer.tsx`: Pomodoro technique timer
 - `StudyTimer.tsx`: Simple study session timer
 
-### Notes Integration
+### Ai Integration
 
-- `AiAssistant.tsx`: Notes Hub
+- `AiAssistant.tsx`: Ai-Assistant
 - `ChatInterface.tsx`: Chat interface for AI interaction
 
 ## 🎨 Customization
@@ -175,7 +173,3 @@ If you find a bug, please open an issue with:
 ## 👨‍💻 Developer
 
 Developed by [codemintah](https://github.com/mintahandrews)
-
----
-
-Made with ❤️ for students everywhere
