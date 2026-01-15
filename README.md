@@ -141,8 +141,3 @@ Modify default timer settings in the respective components:
 
 - `PomodoroTimer.tsx`: Default work/break durations
 - `StudyTimer.tsx`: Default session duration
-
-## 🙏 Acknowledgments
-
-- Sound effects from [Freesound](https://freesound.org/)
-- Icons from [Lucide](https://lucide.dev/)
